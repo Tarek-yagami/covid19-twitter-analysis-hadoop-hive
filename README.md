@@ -4,12 +4,13 @@ Projet réalisé dans le cadre du module **Bases de Données Avancées (BDA)**.
 Le thème du TP est : **"Analyse de données Web avec Hadoop"**.
 
 ## 📁 Structure du projet
-covid19-twitter-analysis/
+```covid19-twitter-analysis/
 ├── data/ # Fichier CSV des tweets COVID-19
 ├── mapreduce/ # Code Java MapReduce
 ├── hive/ # Scripts Hive (.sql)
 ├── results/ # Résultats des traitements
 └── README.md
+```
 
 ## ⚙️ Technologies utilisées
 
