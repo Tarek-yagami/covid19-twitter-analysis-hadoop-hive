@@ -1,0 +1,4 @@
+COVID-19	27348
+Lockdown	786
+Vaccine	1032
+Mask	1944

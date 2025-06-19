@@ -1,0 +1,3 @@
+Original Tweets	354061	94.20
+Original Tweets	20770	5.53
+Retweets	1026	0.27

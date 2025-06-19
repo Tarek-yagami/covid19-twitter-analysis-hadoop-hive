@@ -1,0 +1,10 @@
+Twitter Web App	33605	8.94
+Twitter for iPhone	27685	7.37
+Twitter for Android	18406	4.90
+Hootsuite Inc.	5199	1.38
+TweetDeck	5142	1.37
+Twitter for iPad	3075	0.82
+Buffer	1870	0.50
+Sprout Social	1391	0.37
+IFTTT	982	0.26
+Instagram	937	0.25

@@ -1,0 +1,10 @@
+GlobalPandemic.NET	679	26121	False
+covidnews.ch	402	378	False
+Open Letters	390	17522	True
+Blood Donors India	282	1221298	True
+Hindustan Times	280	7730317	True
+Paperbirds_Coronavirus	259	147	False
+IANS Tweets	244	54843	True
+ANI	233	4721276	True
+Coronavirus Updates - Alexander Higgins	225	17467	False
+Dushyant Vachhani	220	38	False
