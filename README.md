@@ -12,6 +12,12 @@ Le thème du TP est : **"Analyse de données Web avec Hadoop"**.
 └── README.md
 ```
 
+## 📦 Jeu de données
+
+Le jeu de données utilisé provient de Kaggle :  
+🔗 [COVID-19 Tweets Dataset on Kaggle](https://www.kaggle.com/datasets/gpreda/covid19-tweets/data)
+
+
 ## ⚙️ Technologies utilisées
 
 - Java + Hadoop MapReduce
