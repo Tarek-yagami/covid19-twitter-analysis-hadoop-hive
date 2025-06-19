@@ -50,9 +50,9 @@ hadoop jar covid-analysis.jar input_path output_path
 hive -f hive/03_top_hashtags.sql
 ```
 
-📊 Résultats
+### 📊 Résultats
 Les résultats des traitements sont disponibles dans le dossier results/.
 
-📄 Rapport
+### 📄 Rapport
 Le rapport complet est disponible ici :
-📎 rapport_bda_covid19.pdf
+📎 Rapport_TP_BDA_Benameur_Touil_SIQ1.pdf
